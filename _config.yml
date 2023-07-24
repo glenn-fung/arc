@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Glenn Zirui Feng"
+  name   : "Glenn (Zirui Feng)"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "BS UoB, BEcon Jinan"
+  bio    : "BS Math UoB, BEcon Jinan"
   location : "Guangzhou, PRC"
   links:
     - label: "Website"
