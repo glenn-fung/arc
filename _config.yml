@@ -65,6 +65,7 @@ author:
   name   : "Glenn Zirui Feng"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "BS UoB, BEcon Jinan"
+  location : "Guangzhou, PRC"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
