@@ -1,7 +1,6 @@
 ---
-title: "miscellaneous"
+title: "Miscellaneous"
 permalink: /misc/
-layout: posts
 author_profile: true
 ---
 
