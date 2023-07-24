@@ -35,9 +35,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _pages/research-archive
-  - _pages/cv-archive
-  - _pages/misc-archive
+  - _pages/research
+  - _pages/cv
+  - _pages/misc
   - _pages/about
 
 # Exclude from processing.
