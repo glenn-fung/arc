@@ -1,8 +1,6 @@
 ---
-title: "Research"
-layout: categories
+title: "Miscellaneous"
 permalink: /misc/
-author_profile: true
 ---
 
-Would be available in the future! Miscellaneous
+Would be available in the future! 
