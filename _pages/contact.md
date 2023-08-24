@@ -3,4 +3,4 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Would be available in the future! 
+[Email me. ](mailto:zr.feng@outlook.com). 
