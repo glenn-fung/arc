@@ -4,4 +4,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Would be available in the future! 
+TA'ed: **Introduction to Microeconomics** (2022 spring), **Intermediate Microeconomics** (2022 fall). 
