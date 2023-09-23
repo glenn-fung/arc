@@ -9,4 +9,4 @@ This summer, I worked with [Rowland Seymour](https://www.rowlandseymour.com/) in
 
 <hr>
 
-I am a RA of [David Ong](https://sites.google.com/view/davidongecon). 
+I am an RA of [David Ong](https://sites.google.com/view/davidongecon). 
