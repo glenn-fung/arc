@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Glenn"
+title: "Glenn Feng"
 email: "zr.feng@outlook.com"
-description: Personal website of Glenn (Zirui Feng). 
+description: Personal website of Glenn. 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Glenn (Zirui Feng)"
+  name   : "Glenn Feng"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "BS Math UoB, BEcon Jinan"
   location : "Guangzhou, PRC"
