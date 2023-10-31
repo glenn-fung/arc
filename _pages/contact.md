@@ -3,6 +3,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-[Email me](mailto:zr.feng@outlook.com). 
+[Email me](mailto:glenn.fung@outlook.com). 
 
 [Linkedin](https://www.linkedin.com/in/glennfung). 
