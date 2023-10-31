@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Glenn Feng"
+title: "Glenn Fung"
 email: "zr.feng@outlook.com"
 description: Personal website of Glenn. 
 twitter_username: username
@@ -66,10 +66,10 @@ author:
       url: "https://glennzfeng.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/glennjyfung"
+      url: "https://twitter.com/glenntyfung"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/glennfeng"
+      url: "https://www.linkedin.com/in/glennfung"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
