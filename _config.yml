@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Glenn Feng"
+  name   : "Glenn Fung"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "BS Math UoB, BEcon Jinan"
   location : "Guangzhou, PRC"
@@ -63,7 +63,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://glennzfeng.github.io/"
+      url: "https://glenn-fung.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/glenntyfung"
